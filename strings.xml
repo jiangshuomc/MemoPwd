@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MemoPwd</string>
+    <string name="splash_brand">JS STUDIO</string>
+    <string name="splash_slogan">Your world, your rules</string>
+    <string name="landing_line1">Welcome to the new world</string>
+    <string name="landing_line2">No one knows</string>
+    <string name="tab_memo">备忘录</string>
+    <string name="tab_password">密码本</string>
+    <string name="biometric_title">验证身份</string>
+    <string name="biometric_subtitle">使用指纹或面部解锁密码本</string>
+    <string name="biometric_cancel">取消</string>
+    <string name="biometric_pin_fallback">改用密码</string>
+    <string name="hint_search">搜索…</string>
+    <string name="hint_memo_title">标题</string>
+    <string name="hint_memo_content">写点什么…</string>
+    <string name="hint_todo">待办事项…</string>
+    <string name="hint_password_title">名称（如：GitHub）</string>
+    <string name="hint_password_username">账号</string>
+    <string name="hint_password_value">密码</string>
+    <string name="hint_password_note">备注</string>
+    <string name="action_add">添加</string>
+    <string name="action_save">保存</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_delete">删除</string>
+    <string name="category_default">默认</string>
+    <string name="category_all">全部</string>
+    <string name="masked_value">••••••••</string>
+    <string name="copied">已复制到剪贴板</string>
+    <string name="no_biometric_hint">此设备未设置指纹或面部识别，请先在系统设置中录入</string>
+</resources>

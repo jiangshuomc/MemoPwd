@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.MemoPwd" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@color/bg_deep</item>
+        <item name="android:windowBackground">@color/bg_deep</item>
+    </style>
+</resources>
